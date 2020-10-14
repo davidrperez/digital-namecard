@@ -7,7 +7,7 @@ ORG:Adbot Design;
 TITLE:Founder\nCreative Director
 EMAIL;type=INTERNET;type=WORK;type=pref:info@adbot.design
 TEL;type=WORK;type=VOICE:+17023377845
-item1.ADR;type=WORK;type=pref:;;Southern Highlands\nLas Vegas\, NV;;;89141;United States
+item1.ADR;type=WORK;type=pref:;;Southern Highlands\nLas Vegas\, NV 89141;;;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:adbotdesign.com
 item2.X-ABLabel:_$!<HomePage>!$_
